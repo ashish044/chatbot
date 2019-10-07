@@ -5,4 +5,8 @@ Natural Language Processing techniques were used to match the question from the 
 On your terminal, type -
 > python
 
-> nltk.download('all') 
+> nltk.download('all')
+
+# RUNNING THE SCRIPTS
+On your terminal type
+> git clone https://github.com/ashish044/chatbot.git
